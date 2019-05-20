@@ -44,6 +44,8 @@
     "ejs": "^2.6.1",
     "ejs-webpack-loader": "^2.2.2",
     "express": "^4.16.4",
+    "lodash.debounce": "^4.0.8",
+    "lodash.pickby": "^4.6.0",
     "nodemon": "^1.19.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
